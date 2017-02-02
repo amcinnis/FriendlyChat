@@ -25,6 +25,7 @@ class SignInViewController: UIViewController {
   @IBOutlet weak var passwordField: UITextField!
 
   override func viewDidAppear(_ animated: Bool) {
+    
   }
 
   @IBAction func didTapSignIn(_ sender: AnyObject) {
