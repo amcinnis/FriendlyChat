@@ -1,8 +1,8 @@
 .idea/
 gen/
 .DS_Store
-Pods/
-Podfile.lock
+#Pods/
+#Podfile.lock
 xcuserdata/
-*.xcworkspace/
-GoogleService-Info.plist
+#*.xcworkspace/
+#GoogleService-Info.plist
